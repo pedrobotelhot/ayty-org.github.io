@@ -14,5 +14,5 @@ twitter: https://www.twitter.com/rodrigor/
 importance: 1
 category: Professores #Professores, Colaboradores externos, Alunos, Ex-alunos
 funcao: Coordenador #Coordenador, Bolsista Testador, Bolsista Dev, Technical Debt
-projeto: [Phoebus,ESIG,SNET,Universi.me,techdebt]
+projeto: [Phoebus,ESIG,SNET,Universi.me,techdebt,Engenharia.Software]
 ---

@@ -1,15 +1,13 @@
 ---
 layout: page
-title: Equipe
+title: Listagem da Equipe
 permalink: /listaequipe
 description: Nossa equipe
-nav: true
-nav_order: 2
+nav: false
 projects: [Phoebus,ESIG,snet,engenharia.software,Universi.me,techdebt]
 ---
 
 <div class="container">
-    <h1>Team Members</h1>
         {% for project_name in page.projects %}
         <h2>{{ project_name }}</h2>
         <table>

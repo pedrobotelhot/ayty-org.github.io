@@ -16,3 +16,10 @@ category: Professores #Professores, Colaboradores externos, Alunos, Ex-alunos
 funcao: Coordenador #Coordenador, Bolsista Testador, Bolsista Dev, Technical Debt
 projeto: [Phoebus,ESIG,snet,Universi.me,techdebt,Engenharia.Software]
 ---
+
+
+[{{ site.pages | where_exp: "item", "item.path == '/_projects/phoebus.md'" | first.title }}](/projects/phoebus.html)
+
+
+
+

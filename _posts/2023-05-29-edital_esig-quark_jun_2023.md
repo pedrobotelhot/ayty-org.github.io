@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Edital ESIG Jun/23 - 1a ETAPA
+title: Edital ESIG Jun/23 - Resultado da 1a ETAPA
 date: 2023-05-29
 description: 
 tags: esig

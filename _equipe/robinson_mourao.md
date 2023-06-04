@@ -6,7 +6,7 @@ funcao: bolsista tester
 projeto: Phoebus
 desde: 26/05/2023
 saiu: #data de fim
-description: Bolsista tester, tenho 30 anos e sou aluno do curso de computação na UFPB, tenho experiência em outro projeto na área de testes em API REST(Java-Springboot). Perfeccionista e criterioso gosto de documentar, comparar, otimizar e assim vou fazendo de tudo um laboratório.
+description: Tenho 30 anos e sou aluno do curso de computação na UFPB, tenho experiência em outro projeto na área de testes em API REST(Java-Springboot). Perfeccionista e criterioso gosto de ajudar, documentar, comparar, otimizar e assim vou fazendo de tudo um laboratório.
 home_page: # home page
 github: https://github.com/robinsonmourao
 linkedin: https://www.linkedin.com/in/robinson-mour%C3%A3o-9585a3248/

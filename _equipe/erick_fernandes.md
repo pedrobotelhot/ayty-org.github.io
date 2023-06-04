@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Erick Fernandes de Farias Santos
-img: assets/img/equipe/erick_fernandes.jpg
+img: equipe/img/erick_fernandes.jpg
 funcao: Bolsista Devops
 projeto: Phoebus 
 desde: 06/04/2023

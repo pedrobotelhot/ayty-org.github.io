@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Robinson Mourão da Silva
-img: equipe/img/robinson mourao.jpeg
+img: equipe/img/robinson_mourao.jpeg
 funcao: bolsista tester
 projeto: Phoebus
 desde: 26/05/2023

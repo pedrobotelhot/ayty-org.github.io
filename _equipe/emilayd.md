@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Emilayd Sabrina
-img: assets/img/equipe/emilayd.jpeg
+img: equipe/img/emilayd.jpeg
 funcao: Bolsista Analista de Testes
 projeto: Phoebus 
 desde: 06/04/2023

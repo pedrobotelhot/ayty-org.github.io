@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Francisco de Assis Braga Vieira Neto
-img: assets/img/equipe/francisco_assis.jpg
+img: equipe/img/francisco_assis.jpg
 funcao: Bolsista dev
 projeto: Phoebus
 desde: 06/04/2023

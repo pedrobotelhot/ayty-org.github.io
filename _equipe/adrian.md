@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Adrian Ancelmo Fernandes da Silva
-img: assets/img/equipe/adrian.jpg
+img: equipe/img/adrian.jpg
 funcao: bolsista dev
 projeto: Phoebus 
 desde: 06/04/2023

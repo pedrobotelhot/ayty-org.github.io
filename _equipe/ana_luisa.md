@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Ana Luísa Felipe 
-img: assets/img/equipe/ana_luisa.jpg
+img: equipe/img/ana_luisa.jpg
 funcao: Technical Debt
 projeto: [Phoebus,techdebt] 
 desde: Abril - 2023

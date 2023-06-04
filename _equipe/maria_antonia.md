@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Maria Antonia Cabral de Vasconcelos
-img: assets/img/equipe/maria_antonia.jpg
+img: equipe/img/maria_antonia.jpg
 funcao: Bolsista Dev / Design UI/UX
 projeto: Universi.me
 desde: 15/03/2023

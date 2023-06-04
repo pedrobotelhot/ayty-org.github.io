@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Pedro Luiz Cunha de Barros
-img: assets/img/equipe/pedro_cunha.jpg
+img: equipe/img/pedro_cunha.jpg
 funcao: bolsista dev
 projeto: Phoebus 
 desde: 01/07/2022

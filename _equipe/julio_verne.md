@@ -2,7 +2,7 @@
 layout: member
 name: Julio Verne da Silva Rodrigues
 description: Graduando em Licenciatura em Ciência da Computação no Campus IV da UFPB, em Rio Tinto-PB. Algumas Áreas de Interesse são Desenvolvimento em Mobile (Android e iOS), Web, Back-end, Segurança. Principais Tecnologias que utilizo é Objective-C, C++, PHP, Java, API REST, Spring.
-img: assets/img/equipe/julio_verne.jpeg
+img: equipe/img/julio_verne.jpeg
 home_page: https://julio-ufpb.github.io/
 lattes: https://lattes
 desde: 01/04/2023

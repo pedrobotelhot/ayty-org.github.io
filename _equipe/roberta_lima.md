@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Roberta de Lima Ribeiro
-img: assets/img/equipe/roberta_lima.jpg
+img: equipe/img/roberta_lima.jpg
 funcao: Bolsista Tester
 projeto: Phoebus
 desde: 01/07/2022

@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Annehelen Maria Lima de Azevzêdo
-img: assets/img/equipe/annehelen_azevedo.jpg
+img: equipe/img/annehelen_azevedo.jpg
 funcao: Bolsista Dev
 projeto: Universi.me
 desde: 15/03/2023

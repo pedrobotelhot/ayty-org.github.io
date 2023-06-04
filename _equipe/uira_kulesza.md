@@ -10,7 +10,7 @@ Atuou na indústria (2000-2002), como coordenador de projetos e engenheiro de so
 Coordenou e liderou a escrita do projeto do Mestrado Profissional em Engenharia de Software (atualmente Programa de Pós-Graduação em Tecnologia da Informação - PPGTI) do Instituto Metrópole Digital da UFRN submetido e aprovado junto a CAPES em 2013. 
 Foi coordenador do Programa de Pós-Graduação em Sistemas em Computação (PPGSC) do DIMAp/UFRN no período de 2014-2016, e também vice-coordenador do PPGSC no período de 2012-2013. 
 Suas principais linhas de pesquisa atuais são: mineração de repositórios de software, evolução de software, técnicas de análise de software, engenharia de linhas de produto de software, arquitetura de software e testes de software." 
-img: assets/img/equipe/uira_kulesza.jpg
+img: equipe/img/uira_kulesza.jpg
 home_page: https://www.dimap.ufrn.br/~uira/
 lattes: http://lattes.cnpq.br/0189095897739979
 desde: 14/07/2017

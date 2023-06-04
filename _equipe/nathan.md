@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Nathan Farias
-img: assets/img/equipe/nathan.jpeg
+img: equipe/img/nathan.jpeg
 funcao: bolsista dev
 projeto: ESIG 
 desde: 01/04/2022

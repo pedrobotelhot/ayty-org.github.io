@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Luana Xavier de Pontes
-img: assets/img/equipe/luana_xavier.jpg
+img: equipe/img/luana_xavier.jpg
 funcao: Bolsista Dev
 projeto: ESIG
 desde: 01/09/2021

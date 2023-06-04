@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Clebson Augusto Fonseca
-img: assets/img/equipe/clebson.jpg
+img: equipe/img/clebson.jpg
 funcao: DevOps voluntario / Software Engineer Ex bolsista
 projeto: [Universe.me,Phoebus,techdebt]
 desde: 01/01/2021

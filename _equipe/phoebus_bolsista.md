@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Nome do aluno #Nome completo
-img: assets/img/equipe/profile_ayty.jpg
+img: equipe/img/profile_ayty.jpg
 funcao: Bolsista Dev #Bolsista Testador, Bolsista Dev, Technical Debt
 projeto: Phoebus #ESIG,SNET,Universi.me,Engenharia.Software
 desde: #data de início

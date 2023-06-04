@@ -1,7 +1,7 @@
 ---
 layout: member
 name: José Vagner de Araújo Lima
-img: assets/img/equipe/jose_vagner.jpeg
+img: equipe/img/jose_vagner.jpeg
 funcao: Bolsista Dev
 projeto: Phoebus
 desde: 04/04/2022

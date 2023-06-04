@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Israel Pontes da Silva
-img: assets/img/equipe/israel_pontes.jpg
+img: equipe/img/israel_pontes.jpg
 funcao: bolsista dev
 projeto: Phoebus 
 desde: 01/07/2022

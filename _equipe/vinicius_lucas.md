@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Vinicius Lucas de Santana #
-img: assets/img/equipe/vinicius_lucas.jpg
+img: equipe/img/vinicius_lucas.jpg
 funcao: Bolsista Testador #, Bolsista Dev, Technical Debt
 projeto: Phoebus #ESIG,SNET,Universi.me,Engenharia.Software
 desde: 01/04/2023 #data de início

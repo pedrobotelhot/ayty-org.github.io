@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Lucas Gomes Melo Nascimento
-img: assets/img/equipe/lucas_gomes.jpeg
+img: equipe/img/lucas_gomes.jpeg
 funcao: Bolsista dev
 projeto: Phoebus 
 desde: 01/09/2021

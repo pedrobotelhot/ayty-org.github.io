@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Wyllian Asevedo
-img: assets/img/equipe/wyllian.jpg
+img: equipe/img/wyllian.jpg
 funcao: bolsista dev
 projeto: ESIG
 desde: 28/05/2021

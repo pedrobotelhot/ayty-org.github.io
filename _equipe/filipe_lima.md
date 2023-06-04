@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Filipe de Lima Vaz Monteiro
-img: assets/img/equipe/filipe_lima.jpg
+img: equipe/img/filipe_lima.jpg
 funcao: bolsista dev
 projeto: Phoebus 
 desde: 06/04/2023

@@ -1,7 +1,7 @@
 ---
 layout: member
 name: João Victor Lima Barros
-img: assets/img/equipe/joao_barros.jpeg
+img: equipe/img/joao_barros.jpeg
 funcao: bolsista Co-host
 projeto: Engenharia.Software 
 desde: 07/02/2023

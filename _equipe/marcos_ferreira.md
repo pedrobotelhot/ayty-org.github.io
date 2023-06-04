@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Marcos Vinicius Ferreira
-img: assets/img/equipe/marcos_ferreira.jpg
+img: equipe/img/marcos_ferreira.jpg
 funcao: Bolsista dev
 projeto: Phoebus 
 desde: Abril - 2023

@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Jonathan Neves Ribeiro
-img: assets/img/equipe/jonathan_neves.jpg
+img: equipe/img/jonathan_neves.jpg
 funcao: bolsista Co-host
 projeto: Engenharia.Software
 desde: 07/02/2023

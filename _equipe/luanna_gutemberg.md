@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Luanna Gutemberg da Silva
-img: assets/img/equipe/luanna.jpg
+img: equipe/img/luanna.jpg
 funcao: Suporte Administrativo #Bolsista Testador, Bolsista Dev, Technical Debt
 projeto: [Phoebus, ESIG, snet]
 desde: #data de início

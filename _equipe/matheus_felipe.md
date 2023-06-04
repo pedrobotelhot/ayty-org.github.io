@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Matheus Felipe
-img: assets/img/equipe/matheus_felipe.jpg
+img: equipe/img/matheus_felipe.jpg
 funcao: Bolsista Dev
 projeto: [Universi.me,snet]
 desde: 21/04/2022

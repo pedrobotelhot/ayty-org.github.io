@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Juan Carlos Pacífico de Araújo
-img: assets/img/equipe/juan_carlos.jpg
+img: equipe/img/juan_carlos.jpg
 funcao: Bolsista Tester
 projeto: Phoebus
 desde: Abril - 2022

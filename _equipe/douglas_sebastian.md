@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Douglas Sebastian Silva dos Santos
-img: assets/img/equipe/douglas_sebastian.jpg
+img: equipe/img/douglas_sebastian.jpg
 funcao: Bolsista Dev
 projeto: Universi.me
 desde: 15/03/2023

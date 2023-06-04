@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Irla Ingrid Ramalho Arruda
-img: assets/img/equipe/irla_arruda.jpg
+img: equipe/img/irla_arruda.jpg
 funcao: Bolsista Dev
 projeto: ESIG
 desde: 01/09/2022

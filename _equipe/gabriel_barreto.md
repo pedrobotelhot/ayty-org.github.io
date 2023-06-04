@@ -1,7 +1,7 @@
 ---
 layout: member
 name: Gabriel Barreto Tavares da Silva
-img: assets/img/equipe/gabriel_barreto.jpg
+img: equipe/img/gabriel_barreto.jpg
 funcao: Bolsista dev
 projeto: snet
 desde: 21/04/2022

@@ -1,15 +1,17 @@
 // Has to be in the head tag, otherwise a flicker effect will occur.
 
 let toggleTheme = (theme) => {
+  const themeImage = document.getElementById("theme-image");
   if (theme == "dark") {
     setTheme("light");
+    themeImage.src = "assets/img/ayty-black-transp.png";
   } else {
     setTheme("dark");
+    themeImage.src = "assets/img/ayty-white-transp.png";
   }
-}
+};
 
-
-let setTheme = (theme) =>  {
+let setTheme = (theme) => {
   transTheme();
   setHighlight(theme);
   setGiscusTheme(theme);
@@ -17,21 +19,13 @@ let setTheme = (theme) =>  {
   if (theme) {
     document.documentElement.setAttribute("data-theme", theme);
 
-    const themeImage = document.getElementById("theme-image");
-
-    if (theme === "dark") {
-      themeImage.src = "assets/img/ayty-white-transp.png";
-    } else {
-      themeImage.src = "assets/img/ayty-black-transp.png";
-    }
-
     // Add class to tables.
-    let tables = document.getElementsByTagName('table');
-    for(let i = 0; i < tables.length; i++) {
+    let tables = document.getElementsByTagName("table");
+    for (let i = 0; i < tables.length; i++) {
       if (theme == "dark") {
-        tables[i].classList.add('table-dark');
+        tables[i].classList.add("table-dark");
       } else {
-        tables[i].classList.remove('table-dark');
+        tables[i].classList.remove("table-dark");
       }
     }
   } else {
@@ -40,14 +34,15 @@ let setTheme = (theme) =>  {
   localStorage.setItem("theme", theme);
 
   // Updates the background of medium-zoom overlay.
-  if (typeof medium_zoom !== 'undefined') {
+  if (typeof medium_zoom !== "undefined") {
     medium_zoom.update({
-      background: getComputedStyle(document.documentElement)
-          .getPropertyValue('--global-bg-color') + 'ee',  // + 'ee' for trasparency.
-    })
+      background:
+        getComputedStyle(document.documentElement).getPropertyValue(
+          "--global-bg-color"
+        ) + "ee", // + 'ee' for trasparency.
+    });
   }
 };
-
 
 let setHighlight = (theme) => {
   if (theme == "dark") {
@@ -57,53 +52,46 @@ let setHighlight = (theme) => {
     document.getElementById("highlight_theme_dark").media = "none";
     document.getElementById("highlight_theme_light").media = "";
   }
-}
-
+};
 
 let setGiscusTheme = (theme) => {
-
   function sendMessage(message) {
-    const iframe = document.querySelector('iframe.giscus-frame');
+    const iframe = document.querySelector("iframe.giscus-frame");
     if (!iframe) return;
-    iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+    iframe.contentWindow.postMessage({ giscus: message }, "https://giscus.app");
   }
 
   sendMessage({
     setConfig: {
-      theme: theme
-    }
+      theme: theme,
+    },
   });
-
-}
-
+};
 
 let transTheme = () => {
   document.documentElement.classList.add("transition");
   window.setTimeout(() => {
     document.documentElement.classList.remove("transition");
-  }, 500)
-}
-
+  }, 500);
+};
 
 let initTheme = (theme) => {
   const themeImage = document.getElementById("theme-image");
 
-  if (theme == null || theme == 'null') {
+  if (theme == null || theme == "null") {
     theme = localStorage.getItem("theme");
     if (!theme) {
       const userPref = window.matchMedia;
-      if (userPref && userPref('(prefers-color-scheme: light)').matches) {
-        theme = 'light';
-        
+      if (userPref && userPref("(prefers-color-scheme: light)").matches) {
+        theme = "light";
       } else {
-        theme = 'dark';
+        theme = "dark";
       }
     }
   }
 
-  if (theme === 'dark') {
+  if (theme === "dark") {
     document.documentElement.setAttribute("data-theme", "dark");
-
   } else {
     document.documentElement.removeAttribute("data-theme");
   }
@@ -112,17 +100,15 @@ let initTheme = (theme) => {
   setTheme(theme);
 
   const currentTheme = document.documentElement.getAttribute("data-theme");
-  if (currentTheme === 'dark') {
+  if (currentTheme === "dark") {
     themeImage.src = "assets/img/ayty-white-transp.png";
-
   } else {
     themeImage.src = "assets/img/ayty-black-transp.png";
   }
-}
+};
 
-window.addEventListener("DOMContentLoaded", function() {
+window.addEventListener("DOMContentLoaded", function () {
   initTheme(localStorage.getItem("theme"));
 });
-
 
 initTheme(localStorage.getItem("theme"));
